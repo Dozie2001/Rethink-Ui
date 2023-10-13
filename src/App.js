@@ -1,32 +1,43 @@
 import './App.css';
-
+import './index.css'
 function App() {
   return (
     
     <div className="parent">
       <nav className="sideBar">
-        <div className="sideBar-1">
-          <div className="logo">
+        <div className="sideBar-close">
+          <div className="sideBar-1">
+            <div className="logo">
+              <img src="../images/side-bar/logo.png" alt="Logo" />
+            </div>
+            <div className="home">
+              <object data='../images/side-bar/home.svg'></object>
+            </div>
+            <div className="toggle">
+              <object data='../images/side-bar/Contentview.svg'></object>
+            </div>
           </div>
-          <div className="home"></div>
-          <div className="toggle"></div>
+          <div className="sideBar-2">
+            <div className="settings">
+              <object data='../images/side-bar/settings.svg'></object>
+            </div>
+            <div className="log-out">
+              <object data='../images/side-bar/log-out.svg'></object>
+            </div>
+            </div>
         </div>
-        <div className="sideBar-2">
-          <div className="settings"></div>
-          <div className="log-out"></div>
-        </div>
-
       </nav>
       <div className="main">
         <div className='header'>
-          <div className="Search">
+          <div className="search">
             <div className="search-Bar">
               <input type="text" placeholder="Search for templates, projects, etc"></input>
             </div>
-            <div className="Top-buttons">
+            <div className="top-buttons">
               <button>Create Content</button>
               <button className="coin">
-              <span>20</span>
+
+                <span>20</span>
               </button>
             </div>
           </div>
