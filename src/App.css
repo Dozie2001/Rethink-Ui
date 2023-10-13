@@ -1,0 +1,153 @@
+.parent {
+display: flex;
+flex-direction: row;
+
+}
+
+.sideBar {
+    padding: 10px 10px;
+    background-color: black;
+    height: 100vh;
+    max-width: 60px;
+
+
+    
+}
+
+.sideBar-close {
+    display: flex;
+    flex-direction: column; 
+    height: 100%;
+    
+    justify-content: space-between;
+
+  
+
+}
+
+.sideBar-1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+}
+
+button {
+
+}
+
+.logo {
+    display: flex;
+    flex-direction: column;
+   
+
+}
+
+.home {
+
+}
+
+.toggle {
+
+}
+
+.sideBar-2 {
+
+}
+
+.settings {
+
+}
+
+.log-out {
+
+}
+
+.main {
+
+}
+
+.header {
+
+}
+
+.search {
+
+
+}
+
+.search-Bar {
+
+}
+
+input {
+
+}
+
+.top-buttons {
+
+}
+
+.coin {
+    width: 78px;
+    height: 39px;
+    top: 22px;
+    left: 1058px;
+    border-radius: 15px;
+    box-shadow: 0px 7px 20px 0px #00000012;
+
+}
+
+.coin span {
+    font-family: Raleway;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 18px;
+    letter-spacing: 0px;
+    text-align: center;
+
+    width: 21px;
+    height: 18px;
+    top: 31px;
+    left: 1104px;
+
+}
+.profile {
+
+}
+
+.profile-Inner {
+
+}
+
+.body {
+
+}
+
+.body-header {
+
+}
+
+.body-header-1 {
+
+}
+
+.body-header-2 {
+
+}
+
+.body-header-sub {
+
+}
+
+.body-paragraph {
+
+}
+
+.social-media {
+
+}
+
+.social-media-1 {
+
+}
