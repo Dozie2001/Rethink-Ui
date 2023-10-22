@@ -8,7 +8,7 @@
 
 <p>I built the app with reference to these designs: <br>
 
-![Figma designs](https://www.figma.com/file/jCEIbkhUhoFezHv9GMTqzV/Retink-Assessment?type=design&node-id=0-1&mode=design&t=Y4RdkfE0e6Ems5Bw-0)
+![Figma](https://www.figma.com/file/jCEIbkhUhoFezHv9GMTqzV/Retink-Assessment?type=design&node-id=1-426&mode=dev)
 
 <p> Requirements:<p>
 1. ReactJS is used for this project.
