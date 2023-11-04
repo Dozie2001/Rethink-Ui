@@ -1,6 +1,7 @@
 # Rethink Ui
 
-<p> This is a Frontend App built as a Technical Task for an Internship </p> <br>
+<p> This is a Frontend App built as a Technical Task for front end address
+</p> <br>
 
 <p>DeadLine for project was Thursday, 12 October,
 2023 (12 noon - CET).</p>
